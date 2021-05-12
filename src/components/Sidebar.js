@@ -2,7 +2,9 @@ export default function Sidebar(props) {
     
     return (
         
-    <div>side bar</div>
+    <div>side bar
+        {props.children}
+    </div>
         
         
     );
