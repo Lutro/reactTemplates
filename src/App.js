@@ -9,6 +9,7 @@ const sections = [
         { title: 'Technology', url: '#' },
       ];
 function App() {
+  
   return (
     <div className="App">
     
